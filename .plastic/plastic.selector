@@ -1,0 +1,4 @@
+repository "TestRepo@HelixCorp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
